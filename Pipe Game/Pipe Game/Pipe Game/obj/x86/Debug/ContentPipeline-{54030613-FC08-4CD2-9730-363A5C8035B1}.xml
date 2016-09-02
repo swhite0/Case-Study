@@ -1,0 +1,956 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Background.png</Source>
+      <Name>Textures\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Background.xnb</Output>
+      <Time>2013-02-26T14:56:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tile_Sheet.png</Source>
+      <Name>Textures\Tile_Sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Tile_Sheet.xnb</Output>
+      <Time>2013-02-26T14:56:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TitleScreen.png</Source>
+      <Name>Textures\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2013-02-26T14:56:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pipe Game Background.png</Source>
+      <Name>Textures\Pipe Game Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Pipe Game Background.xnb</Output>
+      <Time>2013-03-06T01:17:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pipe_Game_Sprite_Sheet_Final.png</Source>
+      <Name>Textures\Pipe_Game_Sprite_Sheet_Final</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Pipe_Game_Sprite_Sheet_Final.xnb</Output>
+      <Time>2013-03-06T01:00:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-001.png</Source>
+      <Name>Textures\Text\Social-Achievement-001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-001.xnb</Output>
+      <Time>2013-03-06T03:28:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-010.png</Source>
+      <Name>Textures\Text\Social-Achievement-010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-010.xnb</Output>
+      <Time>2013-03-06T03:33:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-011.png</Source>
+      <Name>Textures\Text\Social-Achievement-011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-011.xnb</Output>
+      <Time>2013-03-06T03:33:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-012.png</Source>
+      <Name>Textures\Text\Social-Achievement-012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-012.xnb</Output>
+      <Time>2013-03-06T03:34:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-013.png</Source>
+      <Name>Textures\Text\Social-Achievement-013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-013.xnb</Output>
+      <Time>2013-03-06T04:15:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-014.png</Source>
+      <Name>Textures\Text\Social-Achievement-014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-014.xnb</Output>
+      <Time>2013-03-06T04:15:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-015.png</Source>
+      <Name>Textures\Text\Social-Achievement-015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-015.xnb</Output>
+      <Time>2013-03-06T04:16:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-016.png</Source>
+      <Name>Textures\Text\Social-Achievement-016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-016.xnb</Output>
+      <Time>2013-03-06T01:26:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-017.png</Source>
+      <Name>Textures\Text\Social-Achievement-017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-017.xnb</Output>
+      <Time>2013-03-06T04:17:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-018.png</Source>
+      <Name>Textures\Text\Social-Achievement-018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-018.xnb</Output>
+      <Time>2013-03-06T04:17:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-019.png</Source>
+      <Name>Textures\Text\Social-Achievement-019</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-019.xnb</Output>
+      <Time>2013-03-06T04:17:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-002.png</Source>
+      <Name>Textures\Text\Social-Achievement-002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-002.xnb</Output>
+      <Time>2013-03-06T03:30:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-020.png</Source>
+      <Name>Textures\Text\Social-Achievement-020</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-020.xnb</Output>
+      <Time>2013-03-06T04:17:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-021.png</Source>
+      <Name>Textures\Text\Social-Achievement-021</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-021.xnb</Output>
+      <Time>2013-03-06T04:18:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-022.png</Source>
+      <Name>Textures\Text\Social-Achievement-022</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-022.xnb</Output>
+      <Time>2013-03-06T04:18:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-023.png</Source>
+      <Name>Textures\Text\Social-Achievement-023</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-023.xnb</Output>
+      <Time>2013-03-06T04:19:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-024.png</Source>
+      <Name>Textures\Text\Social-Achievement-024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-024.xnb</Output>
+      <Time>2013-03-06T04:19:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-025.png</Source>
+      <Name>Textures\Text\Social-Achievement-025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-025.xnb</Output>
+      <Time>2013-03-06T04:19:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-026.png</Source>
+      <Name>Textures\Text\Social-Achievement-026</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-026.xnb</Output>
+      <Time>2013-03-06T04:20:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-003.png</Source>
+      <Name>Textures\Text\Social-Achievement-003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-003.xnb</Output>
+      <Time>2013-03-06T03:30:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-004.png</Source>
+      <Name>Textures\Text\Social-Achievement-004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-004.xnb</Output>
+      <Time>2013-03-06T03:31:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-005.png</Source>
+      <Name>Textures\Text\Social-Achievement-005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-005.xnb</Output>
+      <Time>2013-03-06T03:31:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-006.png</Source>
+      <Name>Textures\Text\Social-Achievement-006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-006.xnb</Output>
+      <Time>2013-03-06T03:32:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-007.png</Source>
+      <Name>Textures\Text\Social-Achievement-007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-007.xnb</Output>
+      <Time>2013-03-06T10:09:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-008.png</Source>
+      <Name>Textures\Text\Social-Achievement-008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-008.xnb</Output>
+      <Time>2013-03-06T03:32:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social-Achievement-009.png</Source>
+      <Name>Textures\Text\Social-Achievement-009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social-Achievement-009.xnb</Output>
+      <Time>2013-03-06T03:33:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pipe_Game_Sprite_Sheet_Final2.png</Source>
+      <Name>Textures\Pipe_Game_Sprite_Sheet_Final2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Pipe_Game_Sprite_Sheet_Final2.xnb</Output>
+      <Time>2013-03-04T14:31:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Score Text.png</Source>
+      <Name>Textures\Text\Score Text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Score Text.xnb</Output>
+      <Time>2013-03-06T11:44:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social State UI Text.png</Source>
+      <Name>Textures\Text\Social State UI Text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social State UI Text.xnb</Output>
+      <Time>2013-03-06T11:43:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\End Screen (Final).png</Source>
+      <Name>Textures\End Screen (Final)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\End Screen (Final).xnb</Output>
+      <Time>2013-03-06T10:56:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Start Screen (Final).png</Source>
+      <Name>Textures\Start Screen (Final)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Start Screen (Final).xnb</Output>
+      <Time>2013-03-06T10:50:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pipe Game Sprite Sheet (Final #2).png</Source>
+      <Name>Textures\Pipe Game Sprite Sheet (Final #2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Pipe Game Sprite Sheet (Final #2).xnb</Output>
+      <Time>2013-03-19T15:50:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pipe Game Background (Final).png</Source>
+      <Name>Textures\Pipe Game Background (Final)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Pipe Game Background (Final).xnb</Output>
+      <Time>2013-03-19T18:04:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #1.png</Source>
+      <Name>Textures\Level\Social State Text #1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #1.xnb</Output>
+      <Time>2013-03-20T12:10:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #10.png</Source>
+      <Name>Textures\Level\Social State Text #10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #10.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #11.png</Source>
+      <Name>Textures\Level\Social State Text #11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #11.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #12.png</Source>
+      <Name>Textures\Level\Social State Text #12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #12.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #13.png</Source>
+      <Name>Textures\Level\Social State Text #13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #13.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #14.png</Source>
+      <Name>Textures\Level\Social State Text #14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #14.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #15.png</Source>
+      <Name>Textures\Level\Social State Text #15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #15.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #16.png</Source>
+      <Name>Textures\Level\Social State Text #16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #16.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #17.png</Source>
+      <Name>Textures\Level\Social State Text #17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #17.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #18.png</Source>
+      <Name>Textures\Level\Social State Text #18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #18.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #19.png</Source>
+      <Name>Textures\Level\Social State Text #19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #19.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #2.png</Source>
+      <Name>Textures\Level\Social State Text #2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #2.xnb</Output>
+      <Time>2013-03-20T12:10:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #20.png</Source>
+      <Name>Textures\Level\Social State Text #20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #20.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #21.png</Source>
+      <Name>Textures\Level\Social State Text #21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #21.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #22.png</Source>
+      <Name>Textures\Level\Social State Text #22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #22.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #23.png</Source>
+      <Name>Textures\Level\Social State Text #23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #23.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #24.png</Source>
+      <Name>Textures\Level\Social State Text #24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #24.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #25.png</Source>
+      <Name>Textures\Level\Social State Text #25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #25.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #26.png</Source>
+      <Name>Textures\Level\Social State Text #26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #26.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #3.png</Source>
+      <Name>Textures\Level\Social State Text #3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #3.xnb</Output>
+      <Time>2013-03-20T12:10:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #4.png</Source>
+      <Name>Textures\Level\Social State Text #4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #4.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #5.png</Source>
+      <Name>Textures\Level\Social State Text #5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #5.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #6.png</Source>
+      <Name>Textures\Level\Social State Text #6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #6.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #7.png</Source>
+      <Name>Textures\Level\Social State Text #7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #7.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #8.png</Source>
+      <Name>Textures\Level\Social State Text #8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #8.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Level\Social State Text #9.png</Source>
+      <Name>Textures\Level\Social State Text #9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Level\Social State Text #9.xnb</Output>
+      <Time>2013-03-20T12:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #1.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #1.xnb</Output>
+      <Time>2013-03-19T17:52:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #10.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #10.xnb</Output>
+      <Time>2013-03-19T17:39:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #11.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #11.xnb</Output>
+      <Time>2013-03-19T17:41:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #12.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #12.xnb</Output>
+      <Time>2013-03-19T17:52:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #13.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #13.xnb</Output>
+      <Time>2013-03-19T17:35:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #14.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #14.xnb</Output>
+      <Time>2013-03-19T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #15.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #15.xnb</Output>
+      <Time>2013-03-19T17:37:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #16.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #16.xnb</Output>
+      <Time>2013-03-19T17:55:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #17.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #17.xnb</Output>
+      <Time>2013-03-19T17:38:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #18.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #18.xnb</Output>
+      <Time>2013-03-19T17:56:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #19.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #19.xnb</Output>
+      <Time>2013-03-19T17:39:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #2.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #2.xnb</Output>
+      <Time>2013-03-19T17:35:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #20.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #20.xnb</Output>
+      <Time>2013-03-19T17:58:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #21.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #21.xnb</Output>
+      <Time>2013-03-19T17:41:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #22.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #22.xnb</Output>
+      <Time>2013-03-19T17:59:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #23.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #23.xnb</Output>
+      <Time>2013-03-19T17:42:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #24.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #24.xnb</Output>
+      <Time>2013-03-19T17:59:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #25.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #25.xnb</Output>
+      <Time>2013-03-19T17:43:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #26.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #26.xnb</Output>
+      <Time>2013-03-19T18:00:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #3.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #3.xnb</Output>
+      <Time>2013-03-19T17:53:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #4.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #4.xnb</Output>
+      <Time>2013-03-19T17:36:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #5.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #5.xnb</Output>
+      <Time>2013-03-19T17:55:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #6.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #6.xnb</Output>
+      <Time>2013-03-19T17:37:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #7.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #7.xnb</Output>
+      <Time>2013-03-19T17:56:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #8.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #8.xnb</Output>
+      <Time>2013-03-19T17:38:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Text\Social Achievement Sprite #9.png</Source>
+      <Name>Textures\Text\Social Achievement Sprite #9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Textures\Text\Social Achievement Sprite #9.xnb</Output>
+      <Time>2013-03-19T17:57:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Pericles36.spritefont</Source>
+      <Name>Font\Pericles36</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Font\Pericles36.xnb</Output>
+      <Time>2013-03-06T02:35:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop1.wav</Source>
+      <Name>Music\Loop1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop1.xnb</Output>
+      <Time>2013-03-06T09:37:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop10.wav</Source>
+      <Name>Music\Loop10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop10.xnb</Output>
+      <Time>2013-03-06T09:37:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop2.wav</Source>
+      <Name>Music\Loop2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop2.xnb</Output>
+      <Time>2013-03-06T09:37:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop3.wav</Source>
+      <Name>Music\Loop3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop3.xnb</Output>
+      <Time>2013-03-06T09:37:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop4.wav</Source>
+      <Name>Music\Loop4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop4.xnb</Output>
+      <Time>2013-03-06T09:37:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop5.wav</Source>
+      <Name>Music\Loop5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop5.xnb</Output>
+      <Time>2013-03-06T09:37:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop6.wav</Source>
+      <Name>Music\Loop6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop6.xnb</Output>
+      <Time>2013-03-06T09:37:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop7.wav</Source>
+      <Name>Music\Loop7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop7.xnb</Output>
+      <Time>2013-03-06T09:37:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop8.wav</Source>
+      <Name>Music\Loop8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop8.xnb</Output>
+      <Time>2013-03-06T09:37:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Loop9.wav</Source>
+      <Name>Music\Loop9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\Music\Loop9.xnb</Output>
+      <Time>2013-03-06T09:37:12-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{54030613-FC08-4CD2-9730-363A5C8035B1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-21T15:25:42.1944271-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

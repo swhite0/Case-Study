@@ -1,0 +1,6 @@
+C:\Users\Lab\Desktop\Pipe Game\Pipe Game\Pipe GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Pipe Game (2)\Pipe Game\Pipe Game\Pipe GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Intermediate Game Design\Pipe Game\Pipe Game\Pipe GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Intermediate Game Design\Pipe Game\Pipe Game\Pipe GameContent\obj\x86\Debug\Pipe GameContent.contentprojResolveAssemblyReference.cache
+F:\Intermediate Game Design\Pipe Game\Pipe Game\Pipe GameContent\obj\x86\Debug\Pipe GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Intermediate Game Design\Pipe Game\Pipe Game\Pipe GameContent\obj\x86\Debug\Pipe GameContent.contentprojResolveAssemblyReference.cache
